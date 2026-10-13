@@ -1,0 +1,10 @@
+com\college\sms\config\CorsConfig$1.class
+com\college\sms\StudentManagementApplication.class
+com\college\sms\entity\Student.class
+com\college\sms\repository\StudentRepository.class
+com\college\sms\controller\StudentController.class
+com\college\sms\config\CorsConfig.class
+com\college\sms\service\StudentService.class
+com\college\sms\exception\DuplicateResourceException.class
+com\college\sms\exception\GlobalExceptionHandler.class
+com\college\sms\exception\ResourceNotFoundException.class
